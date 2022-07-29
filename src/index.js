@@ -1,3 +1,5 @@
+// Do not change name from index.js, this is default value webpack expects //
+
 // importing all 3 javascript functions from the 2 javascript files //
 import { print1 } from './javascript/javascript1';
 import { print2 } from './javascript/javascript1';
