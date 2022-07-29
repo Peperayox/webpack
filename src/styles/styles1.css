@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  color: aqua;
+}
+img {
+  max-width: 200px;
+  max-height: 200px;
+}
+.images {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2em;
+}
+.promotionalFlexBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

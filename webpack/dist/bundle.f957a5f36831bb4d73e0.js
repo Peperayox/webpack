@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("javascript1 is working correctly"),console.log("remember to export your functions"),console.log("remember to not name function the same across your different js files")})();
